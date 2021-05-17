@@ -3,7 +3,9 @@ End of the year I try to be more wiz and done 25 coding projects.
 
 ## Projects (updated after project is done)
 
-* Shithead card-game
+* Network packet sniffer - Sniffs usernames, passwords, unwanted traffic in the network. Also can block traffic.
+* Runmeworm - Tries to replicate himself for bruting SSH ports in network. Could work better with some exploit but it's just sample.
+
 
 # three rules for myself
 
